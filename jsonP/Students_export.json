@@ -1,0 +1,23 @@
+[
+    {
+        "StudentID": 23671021,
+        "FullName": "Đặng Quang Khang",
+        "Age": 21,
+        "GPA": 3.85,
+        "IsGraduated": false
+    },
+    {
+        "StudentID": 23671022,
+        "FullName": "Nguyễn Văn A",
+        "Age": 22,
+        "GPA": 3.2,
+        "IsGraduated": false
+    },
+    {
+        "StudentID": 23671023,
+        "FullName": "Trần Thị B",
+        "Age": 23,
+        "GPA": 3.9,
+        "IsGraduated": true
+    }
+]
